@@ -1,0 +1,11 @@
+package br.eti.amazu.aloeclipse;
+
+public class AloEclipse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String mensagem = "Alô Eclipse";
+		System.out.println(mensagem);
+	}
+
+}
