@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+D:\DEV\Curso\ilunne\.metadata\.plugins\org.eclipse.jdt.core
-2467687319.index
-997431235.index
-356374187.index

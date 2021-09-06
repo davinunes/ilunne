@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+D:\DEV\Curso\ilunne\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3052669587.index
-2467687319.index
-463019783.index
-2357826725.index
-3107489316.index
-2138794570.index
